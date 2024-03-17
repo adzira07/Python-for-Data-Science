@@ -4,7 +4,7 @@ This is a Python for Data Science project. Here we wiil understand and study the
 Group members : 
 - Adzira Rafisha Najlaffaiza
 - Mohammad Fahmi Aziz
-- Raisya Massandra
+- Raisya Marsandra
 
 
 #### Author : Gabriel Atkin 
