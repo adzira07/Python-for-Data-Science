@@ -6,10 +6,13 @@ Group members :
 - Mohammad Fahmi Aziz
 - Raisya Marsandra
 
+Source : 
+https://www.kaggle.com/code/gcdatkin/blueberry-yield-prediction
+
 
 #### Author : Gabriel Atkin 
 
-#### Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of learning Python for Data Science from CognitiveClass.ai
+#### Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of learning Python for Data Science 
 
 # 🐣Mentee Info 🐣
 - Name    : Adzira Rafisha Najlaffaiza
@@ -19,3 +22,5 @@ Group members :
 # 💻Tech Stack💻
 - Jupyter
 - Python
+- Github
+- Google Colab
